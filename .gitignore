@@ -1,0 +1,2 @@
+# ignorando arquivos com extensão .log
+*.log
